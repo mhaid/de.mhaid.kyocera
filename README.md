@@ -9,6 +9,8 @@ Printer models tested:
 
 - ECOSYS M5526CDW
 
-To further improve the app, please report bugs and suggest new features on GitHub (mhaid): https://github.com/mhaid/de.mhaid.kyocera
+To further improve the app, please report bugs and suggest new features on [GitHub (mhaid)](https://github.com/mhaid/de.mhaid.kyocera/issues)
 
 Cheers!
+
+View the App in [Homey Appstore](https://homey.app/en-us/app/de.mhaid.kyocera/Kyocera/)
